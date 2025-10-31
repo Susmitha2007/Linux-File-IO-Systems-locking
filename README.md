@@ -3,7 +3,7 @@ Ex07-Linux File-IO Systems-locking
 
 Name:Nara Guna Susmitha
 
-Reg n0:212224230176
+Reg no:212224230176
 
 # AIM:
 To Write a C program that illustrates files copying and locking
